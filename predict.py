@@ -7,7 +7,7 @@ import pickle
 
 
 def app(df, X, y):
-    st.title("Input Nilai Untuk Prediction Dengan Algoritma KMeans")
+    st.title("Input Nilai Untuk Prediction Dengan Algoritma KNN")
     aid_model = pickle.load(open('AID.sav','rb'))
 
     col1, col2 = st.columns(2)
