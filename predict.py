@@ -39,6 +39,6 @@ def app(df, X, y):
         if(aid_prediction[0] == 0):
             aid_pred = 'Income <=50k'
         else :
-            aid_pred = 'Income >50k'
+            aid_pred = 'Income =>50k'
 
         st.success(aid_pred)
