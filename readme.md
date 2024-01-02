@@ -222,7 +222,7 @@ Recall Score:  0.526984126984127
 F1 Score:  0.5558599695585997
 ```
 
-Kita melihat bahwa accuracy score model kita adalah 80% yang mengartikan bahwa model kita sudah berjalan dengan baik.
+Kita melihat bahwa accuracy score model kita adalah 80% yang mengartikan bahwa model kita itu sudah berjalan dengan baik.
 
 ## Deployment
 
