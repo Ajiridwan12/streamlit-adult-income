@@ -31,7 +31,7 @@ Dalam era digital ini, semakin banyak data yang dihasilkan oleh individu dalam k
 
 ## Data Understanding
 
-Dataset yang digunakan berasal dari situs Kaggle. Dataset ini mengandung 48842 entries dan 15 columns<br>
+Dataset yang digunakan oleh saya berasal dari situs Kaggle. Dataset ini mengandung 48842 entries dan 15 columns<br>
 
 Link Dataset: [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset?resource=download).
 
@@ -60,26 +60,26 @@ Link Dataset: [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/ad
 ### Data Workclass Terbanyak
 
 ![banner](1.jpg)
-Dari grafik diatas bisa kita lihat bahwa Private adalah workclass terbanyak di dataset ini.
+Dari grafik diatas bisa kita lihat bahwa Private itu adalah workclass terbanyak di dataset ini.
 
 ### Data Education Terbanyak
 
 ![banner](2.jpg)
-Dari grafik diatas bisa kita lihat bahwa HS-Grade adalah data education terbanyak di dataset ini.
+Dari grafik diatas bisa kita lihat bahwa HS-Grade itu adalah data education terbanyak di dataset ini.
 
 ### Data Occupation Terbanyak
 
 ![banner](3.jpg)
-Dari grafik diatas bisa kita lihat bahwa Prof-specialty adalah data Occupation terbanyak di dataset ini.
+Dari grafik diatas bisa kita lihat bahwa Prof-specialty itu adalah data Occupation terbanyak di dataset ini.
 
 ### Data Income Class Terbanyak
 
 ![banner](4.jpg)
-Dari grafik diatas bisa kita lihat bahwa Income class <=50k adalah data Income Class terbanyak di dataset ini.
+Dari grafik diatas bisa kita lihat bahwa Income class <=50k itu adalah data Income Class terbanyak di dataset ini.
 
 ## Data Preparation
 
-Pertama-tama import semua library yang dibutuhkan,
+Pertama-tama kita import semua library yang dibutuhkan,
 
 ```bash
 import pandas as pd
@@ -209,7 +209,7 @@ knn.fit(x_train, y_train)
 
 ## Evaluation
 
-Untuk mengevaluasi model klasifikasi kita, kita akan memanfaatkan metode bernama Confussion Metrix. Berikut adalah hasik dari evaluasi model kita menggunakan confussion metrix:
+Untuk mengevaluasi model klasifikasi kita, kita akan memanfaatkan metode bernama Confussion Metrix. Berikut adalah hasil dari evaluasi model kita menggunakan confussion metrix:
 
 ![cm](cm.jpg)
 
