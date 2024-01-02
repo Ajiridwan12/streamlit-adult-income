@@ -226,7 +226,7 @@ Kita melihat bahwa accuracy score model kita adalah 80% yang mengartikan bahwa m
 
 ## Deployment
 
-[Streamlit App](https://knn-aji.streamlit.app/)
+[Adult Prediction](https://knn-aji.streamlit.app/)
 
 ![SS](home.png)
 ![SS](predik.png)
