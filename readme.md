@@ -72,7 +72,7 @@ Dari grafik diatas bisa kita lihat bahwa HS-Grade adalah data education terbanya
 ![banner](3.jpg)
 Dari grafik diatas bisa kita lihat bahwa Prof-specialty adalah data Occupation terbanyak di dataset ini.
 
-### Data Occupation Terbanyak
+### Data Income class Terbanyak
 
 ![banner](4.jpg)
 Dari grafik diatas bisa kita lihat bahwa Income class <=50k adalah data Income Class terbanyak di dataset ini.
