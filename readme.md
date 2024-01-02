@@ -57,7 +57,7 @@ Link Dataset: [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/ad
 
 ### Data Workclass Terbanyak
 
-![banner](5.png)
+![banner](5.jpg)
 
 ![banner](1.jpg)
 Dari grafik diatas bisa kita lihat bahwa Private adalah workclass terbanyak di dataset ini.
