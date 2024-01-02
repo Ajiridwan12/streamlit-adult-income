@@ -230,6 +230,6 @@ Link Streamlit:
 [Streamlit App](https://knn-aji.streamlit.app/).
 
 Screenshot Aplikasi:
-![SS](home.jpg)
-![SS](predik.jpg)
-![SS](visual.jpg)
+![SS](home.png)
+![SS](predik.png)
+![SS](visual.png)
