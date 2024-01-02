@@ -226,10 +226,7 @@ Kita melihat bahwa accuracy score model kita adalah 80% yang mengartikan bahwa m
 
 ## Deployment
 
-Link Streamlit:
 [Streamlit App](https://knn-aji.streamlit.app/).
-
-Screenshot Aplikasi:
 ![SS](home.png)
 ![SS](predik.png)
 ![SS](visual.png)
