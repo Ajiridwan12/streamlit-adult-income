@@ -8,7 +8,7 @@
 
 ## Domain Proyek
 
-![banner](banner.jpeg)
+![banner](adult.png)
 
 Dalam era digital ini, semakin banyak data yang dihasilkan oleh individu dalam kehidupan sehari-hari. Data tersebut mencakup berbagai aspek, mulai dari pekerjaan, pendidikan, hingga gaya hidup. Dalam konteks ini, penelitian ini bertujuan untuk mengembangkan model klasifikasi pendapatan seseorang berdasarkan data kehidupannya. Klasifikasi pendapatan dapat memberikan wawasan yang berharga bagi berbagai pihak, termasuk pemerintah, peneliti, dan masyarakat umum. Pertanyaan yang mendasari penelitian ini adalah bagaimana kita dapat memanfaatkan data kehidupan sehari-hari seseorang untuk memprediksi kategori pendapatan mereka. Dengan pemahaman ini, kita dapat mengidentifikasi faktor-faktor apa yang paling berpengaruh dalam menentukan pendapatan seseorang. Apakah tingkat pendidikan, jenis pekerjaan, atau faktor lain yang lebih memengaruhi penghasilan seseorang?
 
@@ -57,22 +57,22 @@ Link Dataset: [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/ad
 
 ### Data Workclass Terbanyak
 
-![banner](1.png)
+![banner](1.jpg)
 Dari grafik diatas bisa kita lihat bahwa Private adalah workclass terbanyak di dataset ini.
 
 ### Data Education Terbanyak
 
-![banner](2.png)
+![banner](2.jpg)
 Dari grafik diatas bisa kita lihat bahwa HS-Grade adalah data education terbanyak di dataset ini.
 
 ### Data Occupation Terbanyak
 
-![banner](3.png)
+![banner](3.jpg)
 Dari grafik diatas bisa kita lihat bahwa Prof-specialty adalah data Occupation terbanyak di dataset ini.
 
 ### Data Occupation Terbanyak
 
-![banner](4.png)
+![banner](4.jpg)
 Dari grafik diatas bisa kita lihat bahwa Income class <=50k adalah data Income Class terbanyak di dataset ini.
 
 ## Data Preparation
@@ -209,7 +209,7 @@ knn.fit(x_train, y_train)
 
 Untuk mengevaluasi model klasifikasi kita, kita akan memanfaatkan metode bernama Confussion Metrix. Berikut adalah hasik dari evaluasi model kita menggunakan confussion metrix:
 
-![cm](cm.png)
+![cm](cm.jpg)
 
 Kita juga akan melihat skor akurasi dari model kita
 
@@ -228,6 +228,6 @@ Link Streamlit:
 [Streamlit App](https://knn-aji.streamlit.app/).
 
 Screenshot Aplikasi:
-![SS](ss1.png)
-![SS](ss2.png)
-![SS](ss3.png)
+![SS](home.jpg)
+![SS](predik.jpg)
+![SS](visual.jpg)
