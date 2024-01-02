@@ -55,9 +55,9 @@ Link Dataset: [Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/ad
 
 ## Exploratory Data Analyst (EDA)
 
-### Data Workclass Terbanyak
-
 ![banner](5.png)
+
+### Data Workclass Terbanyak
 
 ![banner](1.jpg)
 Dari grafik diatas bisa kita lihat bahwa Private adalah workclass terbanyak di dataset ini.
